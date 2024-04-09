@@ -1,7 +1,7 @@
 ## Who am I ?
 👋 I’m @Ferfoui, I'm a student very interested by programmation, I like video games and embedded softwares
 
-## Programming Languages
+## Mastered Programming Languages
 **Java** *(for a while)* <p>
 <a href="https://www.java.com"><img src="https://cdn3.emoji.gg/emojis/java.png" width="64px" height="64px" alt="java"></a><p>
 **Python** *(for a while)* <p>
@@ -15,6 +15,7 @@
 
 🌱 I’m currently learning the C++ language and also the chinese language (it's more difficult than Java)
 
+<div align="center"><p><a href="https://github.com/Ferfoui/Ferfoui/blob/main/README_FR.md"><kbd>FR</kbd></p></div>
 
 <!---
 Ferfoui/Ferfoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
