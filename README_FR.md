@@ -1,7 +1,7 @@
 ## Qui suis-je ?
 👋 Je suis @Ferfoui, un étudiant très intéressé par la programmation, j'aime les jeux vidéo et les programmes embarqués (sur des cartes électroniques)
 
-## Languages de Programmation
+## Langages de Programmation Maîtrisés
 **Java** *(deupuis longtemps)* <p>
 <a href="https://www.java.com"><img src="https://cdn3.emoji.gg/emojis/java.png" width="64px" height="64px" alt="java"></a><p>
 **Python** *(depuis longtemps)* <p>
