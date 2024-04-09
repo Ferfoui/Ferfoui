@@ -1,5 +1,5 @@
 ## Who am I ?
-👋 I’m @Ferfoui, I'm a student very interested by programmation, I like video games and embedded softwares
+👋 I’m @Ferfoui, I'm a student very interested by programming, I like video games and embedded softwares
 
 ## Mastered Programming Languages
 **Java** *(for a while)* <p>
