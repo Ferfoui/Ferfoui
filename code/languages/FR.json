@@ -1,0 +1,18 @@
+{
+    "who_am_i_title": "Qui suis-je ?",
+    "who_am_i_text": "Je suis @Ferfoui, un étudiant très intéressé par la programmation, j'aime les jeux vidéo et les programmes embarqués",
+
+    "mastered_programming_languages_title": "Les Languages de Programmation Maîtrisés",
+    "java_time_text": "depuis longtemps",
+    "python_time_text": "depuis longtemps",
+    "c_time_text": "depuis moins longtemps",
+    "cpp_time_text": "depuis le mois dernier",
+
+    "other_things_title": "Les autres choses",
+    "other_things_text": "Je suis aussi intéressé par l'électronique, j'aime bien faire des petits projets avec des Arduino et des STM32",
+    "currently_learning_text": "Je suis actuellement en train d'apprendre le C++, j'essaie de m'améliorer en Java et en Python et je suis en train d'apprendre le Mandarin (c'est plus difficile que le Java",
+    "hobbies_text": "J'aime bien jouer aux jeux vidéo, j'aime aussi rencontrer de nouvelles personnes et apprendre de nouvelles choses",
+    "contact_text": "Vous pouvez m'envoyer un fax au 546-895-0145 (c'est une blague)",
+
+    "github_stats_title": "Stats GitHub"
+}
