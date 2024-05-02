@@ -36,4 +36,4 @@
 
 ![Ferfoui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferfoui&show_icons=true&theme=radical)
 
-[![EN](https://img.shields.io/badge/EN-blue)](https://github.com/Ferfoui/Ferfoui/blob/main/README_EN.md)  [![JP](https://img.shields.io/badge/JP-blue)](https://github.com/Ferfoui/Ferfoui/blob/main/README_JP.md)  
+[![EN](https://img.shields.io/badge/EN-blue)](https://github.com/Ferfoui/Ferfoui/blob/main/README_EN.md)  
