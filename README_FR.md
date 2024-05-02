@@ -26,9 +26,9 @@
 
 ⚡ Je suis aussi intéressé par l'électronique, j'aime bien faire des petits projets avec des Arduino et des STM32
 
-🌱 Je suis actuellement en train d'apprendre le C++, j'essaie de m'améliorer en Java et en Python et je suis en train d'apprendre le Mandarin (c'est plus difficile que le Java
+🌱 Je suis actuellement en train d'apprendre le C++, j'essaie de m'améliorer en Java et en Python et je suis en train d'apprendre le Mandarin (c'est plus difficile que le Java)
 
-🎮 J'aime bien jouer aux jeux vidéo, j'aime aussi rencontrer de nouvelles personnes et apprendre de nouvelles choses
+🎮 J'aime bien jouer aux jeux vidéo, j'aime aussi rencontrer de nouvelles personnes et apprendre des choses cools
 
 📫 Vous pouvez m'envoyer un fax au 546-895-0145 (c'est une blague)
 

@@ -45,7 +45,7 @@ def generate_readme_files():
 def main():
     generate_readme_files()
     
-    print('README.md generated successfully!')
+    print('README files has been generated successfully!')
     
 if __name__ == '__main__':
     main()
