@@ -6,27 +6,31 @@
 
 ## Mastered Programming Languages
 
-**Java** *(for a while)*
+**Java** *(I love Java)*
 
 [<img src="https://cdn3.emoji.gg/emojis/java.png" width="64px" height="64px" alt="java">](https://www.java.com)
 
-**Python** *(for a while)*
+**Python** *(experimented)*
 
 [<img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="64px" height="64px" alt="python">](https://www.python.org)
 
-**C** *(from some time)*
+**C** *(I have some experience)*
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="64px" alt="c_language">](https://learn.microsoft.com/cpp/c-language)
 
-**C++** *(since last month)*
+**C++** *(I know the basics)*
 
-[<img src="https://cdn3.emoji.gg/emojis/8241-c-plus-plus.png" width="64px" height="64px" alt="c_plus_plus">](https://learn.microsoft.com/cpp)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="64px" height="64px" alt="c_plus_plus">](https://learn.microsoft.com/cpp)
+
+**Kotlin** *(I am currently learning)*
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Kotlin_Icon_2021.svg" width="64px" height="64px" alt="kotlin">](https://kotlinlang.org)
 
 ## Other things
 
 ⚡ I'm also interested in electronics, I like to make small projects with Arduino and STM32
 
-🌱 I'm currently learning C++, I'm trying to improve my skills in Java and Python and I'm also learning Mandarin Chinese (It's more difficult than Java)
+🌱 I'm currently learning Kotlin, I'm trying to improve my skills in Java and Python and I'm also learning Mandarin Chinese (It's more difficult than Java)
 
 🎮 I like to play video games, I also like to meet new people and to learn new things
 

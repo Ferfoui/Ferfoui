@@ -3,14 +3,15 @@
     "who_am_i_text": "I'm @Ferfoui, I'm a student very interested by programming, I like video games and embedded softwares",
     
     "mastered_programming_languages_title": "Mastered Programming Languages",
-    "java_time_text": "for a while",
-    "python_time_text": "for a while",
-    "c_time_text": "from some time",
-    "cpp_time_text": "since last month",
+    "java_level_text": "I love Java",
+    "python_level_text": "experimented",
+    "c_level_text": "I have some experience",
+    "cpp_level_text": "I know the basics",
+    "kotlin_level_text": "I am currently learning",
 
     "other_things_title": "Other things",
     "other_things_text": "I'm also interested in electronics, I like to make small projects with Arduino and STM32",
-    "currently_learning_text": "I'm currently learning C++, I'm trying to improve my skills in Java and Python and I'm also learning Mandarin Chinese (It's more difficult than Java)",
+    "currently_learning_text": "I'm currently learning Kotlin, I'm trying to improve my skills in Java and Python and I'm also learning Mandarin Chinese (It's more difficult than Java)",
     "hobbies_text": "I like to play video games, I also like to meet new people and to learn new things",
     "contact_text": "You can send me a fax at 546-895-0145 (it's a joke)",
 
