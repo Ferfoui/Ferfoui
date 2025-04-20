@@ -1,19 +1,21 @@
 {
     "who_am_i_title": "Who am I?",
-    "who_am_i_text": "I'm @Ferfoui, I'm a student very interested by programming, I like video games and embedded softwares",
+    "who_am_i_text": "I'm @Ferfoui, I'm a student very interested by programming, I like video games and embedded softwares.",
+    "who_am_i_text_2": "Mathematics is also one of my favorite subjects, it is so interesting to discover this beautiful universe.",
     
     "mastered_programming_languages_title": "Mastered Programming Languages",
-    "java_level_text": "I love Java",
-    "python_level_text": "experimented",
-    "c_level_text": "I have some experience",
-    "cpp_level_text": "I know the basics",
-    "kotlin_level_text": "I am currently learning",
+    "java_level_text": "I love Java, it is the OOP paradise",
+    "kotlin_level_text": "very cool language, close enough to Java, but with some nice features",
+    "python_level_text": "experimented, I've learnt programming with Python",
+    "cpp_level_text": "I have some experience, it's a great language, but I prefer Java",
+    "c_level_text": "I know the basics, I'm using it to code on STM32",
 
     "other_things_title": "Other things",
-    "other_things_text": "I'm also interested in electronics, I like to make small projects with Arduino and STM32",
-    "currently_learning_text": "I'm currently learning Kotlin, I'm trying to improve my skills in Java and Python and I'm also learning Mandarin Chinese (It's more difficult than Java)",
-    "hobbies_text": "I like to play video games, I also like to meet new people and to learn new things",
-    "contact_text": "You can send me a fax at 546-895-0145 (it's a joke)",
+    "other_things_text": "I'm also interested in electronics, I like to make small projects with ESP32 and STM32.",
+    "robotics_text": "I also like robotics. I've participated to [FRC](https://www.firstinspires.org/robotics/frc) competitions with the [team 9220](https://frc-events.firstinspires.org/team/9220), and I went to New York for the [2025 NYC Regional](https://frc-events.firstinspires.org/2025/NYNY), it was a great experience!",
+    "currently_learning_text": "I'm currently learning Rust, I'm trying to improve my skills in Java and I'm also learning Mandarin Chinese (It's more difficult than Java).",
+    "hobbies_text": "I like to play video games, I also like to meet new people and to learn new things.",
+    "contact_text": "You can send me a fax at 546-895-0145 (it's a joke).",
 
     "github_stats_title": "GitHub Stats"
 }

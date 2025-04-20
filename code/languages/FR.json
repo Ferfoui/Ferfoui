@@ -1,19 +1,21 @@
 {
     "who_am_i_title": "Qui suis-je ?",
-    "who_am_i_text": "Je suis @Ferfoui, un étudiant très intéressé par la programmation, j'aime les jeux vidéo et les programmes embarqués",
+    "who_am_i_text": "Je suis @Ferfoui, un étudiant très intéressé par la programmation, j'aime les jeux vidéo et les programmes embarqués.",
+    "who_am_i_text_2": "Les mathématiques sont aussi l'un de mes domaines préférés, faire des maths, c'est juste magnifique.",
 
-    "mastered_programming_languages_title": "Les Languages de Programmation Maîtrisés",
-    "java_level_text": "J'adore le Java",
-    "python_level_text": "expérimenté",
-    "c_level_text": "j'ai un peu d'expérience",
-    "cpp_level_text": "je connais les bases",
-    "kotlin_level_text": "je suis en train d'apprendre",
+    "mastered_programming_languages_title": "Les langages de programmation que je maîtrise",
+    "java_level_text": "J'adore le Java, c'est le paradis de la POO",
+    "kotlin_level_text": "langage très cool, assez proche du Java, mais avec quelques fonctionnalités sympas",
+    "python_level_text": "expérimenté, j'ai appris la programmation avec Python",
+    "cpp_level_text": "j'ai un peu d'expérience, c'est un super langage, mais je préfère le Java",
+    "c_level_text": "je connais les bases, je l'utilise pour coder sur des STM32",
 
     "other_things_title": "Les autres choses",
-    "other_things_text": "Je suis aussi intéressé par l'électronique, j'aime bien faire des petits projets avec des Arduino et des STM32",
-    "currently_learning_text": "Je suis actuellement en train d'apprendre le Kotlin, j'essaie de m'améliorer en Java et en Python et je suis en train d'apprendre le Mandarin (c'est plus difficile que le Java)",
-    "hobbies_text": "J'aime bien jouer aux jeux vidéo, j'aime aussi rencontrer de nouvelles personnes et apprendre des choses cools",
-    "contact_text": "Vous pouvez m'envoyer un fax au 546-895-0145 (c'est une blague)",
+    "other_things_text": "Je suis aussi intéressé par l'électronique, j'aime bien faire des petits projets avec des ESP32 et des STM32.",
+    "robotics_text": "J'aime aussi la robotique. J'ai participé à des compétitions [FRC](https://www.firstinspires.org/robotics/frc) avec l'[équipe 9220](https://frc-events.firstinspires.org/team/9220), et je suis allé à New York pour le [NYC Regional de 2025](https://frc-events.firstinspires.org/2025/NYNY), c'était génial !",
+    "currently_learning_text": "Je suis actuellement en train d'apprendre le Rust, j'essaie de m'améliorer en Java et je suis en train d'apprendre le Mandarin (c'est plus difficile que le Java).",
+    "hobbies_text": "J'aime bien jouer aux jeux vidéo, j'aime aussi rencontrer des gens et apprendre des choses cools.",
+    "contact_text": "Vous pouvez m'envoyer un fax au 546-895-0145 (c'est une blague).",
 
     "github_stats_title": "Stats GitHub"
 }
