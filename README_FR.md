@@ -8,7 +8,7 @@ Les mathématiques sont aussi l'un de mes domaines préférés, faire des maths,
 
 ## Les langages de programmation que je maîtrise
 
-**Java** *(J'adore le Java, c'est le paradis de la POO)*
+**Java** *(J'adore le Java, c'est le paradis de l'orienté objet)*
 
 [<img src="https://cdn3.emoji.gg/emojis/java.png" width="64px" height="64px" alt="java">](https://www.java.com)
 
@@ -34,7 +34,7 @@ Les mathématiques sont aussi l'un de mes domaines préférés, faire des maths,
 
 🤖 J'aime aussi la robotique. J'ai participé à des compétitions [FRC](https://www.firstinspires.org/robotics/frc) avec l'[équipe 9220](https://frc-events.firstinspires.org/team/9220), et je suis allé à New York pour le [NYC Regional de 2025](https://frc-events.firstinspires.org/2025/NYNY), c'était génial !
 
-🌱 Je suis actuellement en train d'apprendre le Rust, j'essaie de m'améliorer en Java et je suis en train d'apprendre le Mandarin (c'est plus difficile que le Java).
+🌱 Je suis actuellement en train d'apprendre le Rust et le framework Kotlin [Ktor](https://ktor.io). J'apprends aussi le Mandarin (c'est plus difficile que le Java).
 
 🎮 J'aime bien jouer aux jeux vidéo, j'aime aussi rencontrer des gens et apprendre des choses cools.
 
@@ -46,4 +46,4 @@ Les mathématiques sont aussi l'un de mes domaines préférés, faire des maths,
 
 [![EN](https://img.shields.io/badge/EN-blue)](https://github.com/Ferfoui/Ferfoui/blob/main/README_EN.md)  
 
-<!--- This README file has been generated on 2025-04-20 19:55:11, ('Paris, Madrid', 'Paris, Madrid (heure d’été)'). -->
+<!--- This README file has been generated on 2025-04-26 17:07:02, ('Paris, Madrid', 'Paris, Madrid (heure d’été)'). -->

@@ -8,7 +8,7 @@ Mathematics is also one of my favorite subjects, it is so interesting to discove
 
 ## Mastered Programming Languages
 
-**Java** *(I love Java, it is the OOP paradise)*
+**Java** *(I love Java, it is the paradise of object-oriented programming)*
 
 [<img src="https://cdn3.emoji.gg/emojis/java.png" width="64px" height="64px" alt="java">](https://www.java.com)
 
@@ -34,7 +34,7 @@ Mathematics is also one of my favorite subjects, it is so interesting to discove
 
 🤖 I also like robotics. I've participated to [FRC](https://www.firstinspires.org/robotics/frc) competitions with the [team 9220](https://frc-events.firstinspires.org/team/9220), and I went to New York for the [2025 NYC Regional](https://frc-events.firstinspires.org/2025/NYNY), it was a great experience!
 
-🌱 I'm currently learning Rust, I'm trying to improve my skills in Java and I'm also learning Mandarin Chinese (It's more difficult than Java).
+🌱 I'm currently learning Rust and the [Ktor](https://ktor.io) Kotlin framework. I'm also learning Mandarin Chinese (It's more difficult than Java).
 
 🎮 I like to play video games, I also like to meet new people and to learn new things.
 
@@ -46,4 +46,4 @@ Mathematics is also one of my favorite subjects, it is so interesting to discove
 
 [![FR](https://img.shields.io/badge/FR-blue)](https://github.com/Ferfoui/Ferfoui/blob/main/README_FR.md)  
 
-<!--- This README file has been generated on 2025-04-20 19:55:11, ('Paris, Madrid', 'Paris, Madrid (heure d’été)'). -->
+<!--- This README file has been generated on 2025-04-26 17:07:02, ('Paris, Madrid', 'Paris, Madrid (heure d’été)'). -->
