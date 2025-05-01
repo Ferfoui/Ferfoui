@@ -28,6 +28,10 @@ Les mathématiques sont aussi l'un de mes domaines préférés, faire des maths,
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="64px" alt="c_language">](https://learn.microsoft.com/cpp/c-language)
 
+**Rust** *(très sécurisé et très amusant, alors j'apprends toujours)*
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="64px" height="64px" alt="rust">](https://www.rust-lang.org)
+
 ## Les autres choses
 
 ⚡ Je suis aussi intéressé par l'électronique, j'aime bien faire des petits projets avec des ESP32 et des STM32.
@@ -46,4 +50,4 @@ Les mathématiques sont aussi l'un de mes domaines préférés, faire des maths,
 
 [![EN](https://img.shields.io/badge/EN-blue)](https://github.com/Ferfoui/Ferfoui/blob/main/README_EN.md)  
 
-<!--- This README file has been generated on 2025-04-26 17:07:02, ('Paris, Madrid', 'Paris, Madrid (heure d’été)'). -->
+<!--- This README file has been generated on 2025-05-01 19:07:59, ('Paris, Madrid', 'Paris, Madrid (heure d’été)'). -->

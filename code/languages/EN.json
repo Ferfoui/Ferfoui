@@ -9,6 +9,7 @@
     "python_level_text": "experimented, I've learnt programming with Python",
     "cpp_level_text": "I have some experience, it's a great language, but I prefer Java",
     "c_level_text": "I know the basics, I'm using it to code on STM32",
+    "rust_level_text": "very secure and very fun, so I'm still learning it",
 
     "other_things_title": "Other things",
     "other_things_text": "I'm also interested in electronics, I like to make small projects with ESP32 and STM32.",
