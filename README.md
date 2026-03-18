@@ -14,7 +14,7 @@ Mathematics is also one of my favorite subjects, it is so interesting to discove
 
 **Kotlin** *(very cool language, close enough to Java, but with some nice features)*
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Kotlin_Icon_2021.svg" width="64px" height="64px" alt="kotlin">](https://kotlinlang.org)
+[<img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" width="64px" height="64px" alt="kotlin">](https://kotlinlang.org)
 
 **Python** *(experimented, I've learnt programming with Python)*
 
@@ -46,4 +46,4 @@ Mathematics is also one of my favorite subjects, it is so interesting to discove
 
 [![FR](https://img.shields.io/badge/FR-blue)](https://github.com/Ferfoui/Ferfoui/blob/main/README_FR.md)  
 
-<!--- This README file has been generated on 2025-04-20 19:55:11, ('Paris, Madrid', 'Paris, Madrid (heure d’été)'). -->
+<!--- This README file has been generated on 2026-03-18 22:27:36, ('Paris, Madrid', 'Paris, Madrid (heure d’été)'). -->
