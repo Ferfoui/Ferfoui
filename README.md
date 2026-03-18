@@ -8,7 +8,7 @@ Mathematics is also one of my favorite subjects, it is so interesting to discove
 
 ## Mastered Programming Languages
 
-**Java** *(I love Java, it is the OOP paradise)*
+**Java** *(I love Java, it is the paradise of object-oriented programming)*
 
 [<img src="https://cdn3.emoji.gg/emojis/java.png" width="64px" height="64px" alt="java">](https://www.java.com)
 
@@ -28,13 +28,17 @@ Mathematics is also one of my favorite subjects, it is so interesting to discove
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="64px" alt="c_language">](https://learn.microsoft.com/cpp/c-language)
 
+**Rust** *(very secure and very fun, so I'm still learning it)*
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="64px" height="64px" alt="rust">](https://www.rust-lang.org)
+
 ## Other things
 
 ⚡ I'm also interested in electronics, I like to make small projects with ESP32 and STM32.
 
 🤖 I also like robotics. I've participated to [FRC](https://www.firstinspires.org/robotics/frc) competitions with the [team 9220](https://frc-events.firstinspires.org/team/9220), and I went to New York for the [2025 NYC Regional](https://frc-events.firstinspires.org/2025/NYNY), it was a great experience!
 
-🌱 I'm currently learning Rust, I'm trying to improve my skills in Java and I'm also learning Mandarin Chinese (It's more difficult than Java).
+🌱 I'm currently learning Rust and the [Ktor](https://ktor.io) Kotlin framework. I'm also learning Mandarin Chinese (It's more difficult than Java).
 
 🎮 I like to play video games, I also like to meet new people and to learn new things.
 
@@ -47,3 +51,4 @@ Mathematics is also one of my favorite subjects, it is so interesting to discove
 [![FR](https://img.shields.io/badge/FR-blue)](https://github.com/Ferfoui/Ferfoui/blob/main/README_FR.md)  
 
 <!--- This README file has been generated on 2026-03-18 22:27:36, ('Paris, Madrid', 'Paris, Madrid (heure d’été)'). -->
+<!--- This README file has been generated on 2025-05-01 19:07:59, ('Paris, Madrid', 'Paris, Madrid (heure d’été)'). -->
