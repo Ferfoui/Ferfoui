@@ -50,5 +50,4 @@ Les mathématiques sont aussi l'un de mes domaines préférés, faire des maths,
 
 [![EN](https://img.shields.io/badge/EN-blue)](https://github.com/Ferfoui/Ferfoui/blob/main/README_EN.md)  
 
-<!--- This README file has been generated on 2026-03-18 22:27:36, ('Paris, Madrid', 'Paris, Madrid (heure d’été)'). -->
-<!--- This README file has been generated on 2025-05-01 19:07:59, ('Paris, Madrid', 'Paris, Madrid (heure d’été)'). -->
+<!--- This README file has been generated on 2026-03-18 22:40:50, ('Paris, Madrid', 'Paris, Madrid (heure d’été)'). -->

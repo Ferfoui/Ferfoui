@@ -50,5 +50,4 @@ Mathematics is also one of my favorite subjects, it is so interesting to discove
 
 [![FR](https://img.shields.io/badge/FR-blue)](https://github.com/Ferfoui/Ferfoui/blob/main/README_FR.md)  
 
-<!--- This README file has been generated on 2026-03-18 22:27:36, ('Paris, Madrid', 'Paris, Madrid (heure d’été)'). -->
-<!--- This README file has been generated on 2025-05-01 19:07:59, ('Paris, Madrid', 'Paris, Madrid (heure d’été)'). -->
+<!--- This README file has been generated on 2026-03-18 22:40:50, ('Paris, Madrid', 'Paris, Madrid (heure d’été)'). -->
